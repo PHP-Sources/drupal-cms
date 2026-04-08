@@ -1,11 +1,10 @@
 # Drupal CMS
 
-[![Website](https://img.shields.io/badge/Site%20Web-phpsources.net-007ACC?style=for-the-badge&logo=php&logoColor=white)](https://phpsources.net)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/drupal.webp" width="48" height="48" alt="Drupal">
 
-**Drupal** – Le CMS open source professionnel et ultra-flexible pour créer des sites web complexes et performants.
+**Drupal 11.3.5** – Le CMS open source professionnel et ultra-flexible pour créer des sites web complexes et performants.
 
-### Fonctionnalités principales
+### Points forts
 - Architecture modulaire très puissante
 - Système de gestion de contenu avancé
 - SEO et performance optimisés
@@ -13,19 +12,21 @@
 - Gestion fine des droits d’accès et workflows
 - Écosystème de modules très riche
 
-### 📥 Version miroir sur GitHub
+### 📥 Accès rapide aux fichiers
 
-Cette version est une **miroir** du script disponible sur phpsources.net.
+**Explorez rapidement les fichiers via notre explorateur :**
 
-**Pour télécharger la version complète la plus récente (11.3.5), obtenir le support et toutes les mises à jour :**
+👉 **[📂 Explorer Drupal 11.3.5](https://phpsources.net/x7g3p2.php?id=427&name=drupal-11.3.5.zip)**
 
-👉 **[Télécharger Drupal 11.3.5 sur phpsources.net](https://phpsources.net/script/php/cms/427-176_drupal,11.3.5)**
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :** 
+
+👉 **[Drupal CMS sur phpsources.net](https://phpsources.net/script/php/cms/427-176_drupal,11.3.5)**
 
 ### Licence
-Ce projet est distribué sous licence **MIT**.
+Distribué sous licence **MIT**.
 
 ### ⭐ Contribution
-Si ce dépôt vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
+Si ce CMS professionnel vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
 
 ---
 
